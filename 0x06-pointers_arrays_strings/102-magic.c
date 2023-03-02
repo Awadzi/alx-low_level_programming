@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main - Add one line to this code, so that the program prints an array = 98.
-*Return: always 0;
-*/
+ *main - function that prints in an array = 98
+ *Return: always returns 0;
+ */
 int main(void)
 {
 	int n;
