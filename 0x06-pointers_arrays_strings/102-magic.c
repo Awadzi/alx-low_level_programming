@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
  * main - function that prints an array = 98
  * Return: always 0;
