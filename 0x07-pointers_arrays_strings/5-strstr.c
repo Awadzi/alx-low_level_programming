@@ -20,7 +20,8 @@ if (needle[index + 1] == '\0')
 return (haystack);
 index++;
 }
-while{
+while }
+{
 (haystack[index] == needle[index]); }
 haystack++;
 }
