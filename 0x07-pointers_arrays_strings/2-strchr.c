@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* *_strchr - Locate character
+* _strchr - Locate character
 * @s: Input
 * @c: Input
 * Return: If c is found - a pointer to the first occurence
